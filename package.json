@@ -1,7 +1,7 @@
-﻿{
+{
   "name": "trex-kuwait",
   "version": "1.0.0",
-  "description": "Connecting Node.js with Gemini (Antigravity's underlying model)",
+  "description": "T-Rex Kuwait - Premium Car Care Studio",
   "main": "cli-demo.js",
   "type": "module",
   "scripts": {
