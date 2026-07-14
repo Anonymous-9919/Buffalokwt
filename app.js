@@ -1,4 +1,4 @@
-let currentLang = localStorage.getItem("buffalo-lang") || "en";
+let currentLang = localStorage.getItem("trex-lang") || "en";
 
 function toggleLang() {
   currentLang = currentLang === "en" ? "ar" : "en";
@@ -12,7 +12,7 @@ function applyLang(lang) {
   document.body.setAttribute("dir", lang === "ar" ? "rtl" : "ltr");
   const btn = document.getElementById("langToggle");
   if (btn) btn.textContent = lang === "ar" ? "English" : "عربي";
-  localStorage.setItem("buffalo-lang", lang);
+  localStorage.setItem("trex-lang", lang);
   currentLang = lang;
 }
 

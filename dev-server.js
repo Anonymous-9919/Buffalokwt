@@ -1,4 +1,4 @@
-import express from "express";
+﻿import express from "express";
 import { fileURLToPath } from "url";
 import { dirname, join } from "path";
 import fs from "fs";
@@ -48,5 +48,5 @@ app.post("/api/contact", async (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Buffalo Kuwait running at http://localhost:${PORT}`);
+  console.log(`T-Rex Kuwait running at http://localhost:${PORT}`);
 });

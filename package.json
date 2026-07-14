@@ -1,5 +1,5 @@
-{
-  "name": "buffalokwt",
+﻿{
+  "name": "trex-kuwait",
   "version": "1.0.0",
   "description": "Connecting Node.js with Gemini (Antigravity's underlying model)",
   "main": "cli-demo.js",

@@ -1,4 +1,4 @@
-# Website Template Base
+﻿# Website Template Base
 
 A production-ready, responsive HTML/CSS/JS website template designed for service-based businesses. Built with vanilla HTML, CSS, and JavaScript — no framework dependencies.
 
@@ -234,7 +234,7 @@ cd my-client-project
 
 **2. Configure branding**
 - Edit `style.css` — set `--primary`, `--primary-dark`, `--primary-light`, `--primary-glow`
-- Replace `images/logo.png` with client's logo
+- Replace `images/Logo.jpg` with client's logo
 - Update favicon if needed
 
 **3. Update content in `index.html`**
